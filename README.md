@@ -13,3 +13,5 @@ To load this mod in-game, you need MSC Mod Loader (made by piotrulos), which can
 
 This mod uses GameHook.cs and SaveUtil.cs made by zamp (released under MIT-license) to implement saving.
 Link to zamp's github: https://github.com/zamp/MSC-Mods
+
+The "g5.wav" sample is made by MTG and released under Attribution 3.0 Unported (CC BY 3.0) -license. Link to original unmodified sample: https://freesound.org/people/MTG/sounds/361080/

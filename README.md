@@ -15,3 +15,8 @@ This mod uses GameHook.cs and SaveUtil.cs made by zamp (released under MIT-licen
 Link to zamp's github: https://github.com/zamp/MSC-Mods
 
 The "g5.wav" sample is made by MTG and released under Attribution 3.0 Unported (CC BY 3.0) -license. Link to original unmodified sample: https://freesound.org/people/MTG/sounds/361080/
+
+
+Mods will be always free! But if you want to support me doing these and other kind of mods and things, it's way more than appreciated:
+https://www.paypal.me/ajanhallinta
+BTC: 1NEVwVYeMM9V4cmEao16y7tjV21j2qXhbZ

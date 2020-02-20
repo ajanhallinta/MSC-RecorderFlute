@@ -19,4 +19,3 @@ The "g5.wav" sample is made by MTG and released under Attribution 3.0 Unported (
 
 Mods will be always free! But if you want to support me doing these and other kind of mods and things, it's way more than appreciated:
 https://www.paypal.me/ajanhallinta
-BTC: 1NEVwVYeMM9V4cmEao16y7tjV21j2qXhbZ
